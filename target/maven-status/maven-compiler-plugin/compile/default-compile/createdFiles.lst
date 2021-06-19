@@ -1,0 +1,14 @@
+echarging\external\Echarger.class
+echarging\external\EchargerService.class
+echarging\Reserved.class
+echarging\Reservation.class
+echarging\RsrvCancelled.class
+echarging\ReservationApplication.class
+echarging\PolicyHandler.class
+echarging\config\kafka\KafkaProcessor.class
+echarging\AbstractEvent.class
+echarging\AbstractEvent$1.class
+echarging\ReservationRepository.class
+echarging\ChargingStarted.class
+echarging\ReservationController.class
+echarging\ChargingEnded.class
